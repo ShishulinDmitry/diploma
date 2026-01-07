@@ -1,0 +1,59 @@
+=== Pareto optimal combinations (T=1) ===
+r=[0 ], S=[0 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[1 ], S=[0 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[2 ], S=[0 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[3 ], S=[0 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[0 ], S=[1 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[1 ], S=[1 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[2 ], S=[1 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[3 ], S=[1 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[0 ], S=[2 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[1 ], S=[2 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[2 ], S=[2 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[3 ], S=[2 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[0 ], S=[3 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[1 ], S=[3 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[2 ], S=[3 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[3 ], S=[3 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+
+=== Top 20 minimal p_pi (r/S+p_pi/lambda/delta) ===
+r=[3 ], S=[3 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[2 ], S=[3 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[1 ], S=[3 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[0 ], S=[3 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[3 ], S=[2 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[2 ], S=[2 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[1 ], S=[2 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[0 ], S=[2 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[3 ], S=[1 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[2 ], S=[1 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[1 ], S=[1 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[0 ], S=[1 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[3 ], S=[0 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[2 ], S=[0 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[1 ], S=[0 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[0 ], S=[0 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+
+=== Top 20 minimal delta_pi (r/S+p_pi/lambda/delta) ===
+r=[3 ], S=[3 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[2 ], S=[3 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[1 ], S=[3 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[0 ], S=[3 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[3 ], S=[2 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[2 ], S=[2 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[1 ], S=[2 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[0 ], S=[2 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[3 ], S=[1 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[2 ], S=[1 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[1 ], S=[1 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[0 ], S=[1 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[3 ], S=[0 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[2 ], S=[0 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[1 ], S=[0 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+r=[0 ], S=[0 ], p_pi=1.0000000, lambda_pi=1, delta_pi=1.0000000
+
+---
+Checked combinations: 16
+Start time: Tue Sep 23 19:56:44 2025
+End time:   Tue Sep 23 19:56:44 2025
+Elapsed:    0.00 sec

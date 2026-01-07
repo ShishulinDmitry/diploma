@@ -1,0 +1,71 @@
+=== Pareto optimal combinations (T=6) ===
+r=[0 2 2 3 2 1 ], S=[1 3 0 0 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+r=[2 0 3 2 3 2 ], S=[3 2 1 0 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+r=[0 2 1 2 3 2 ], S=[1 0 2 0 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+r=[1 3 1 1 2 1 ], S=[0 2 2 0 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+r=[1 2 2 2 1 2 ], S=[0 0 3 0 0 0 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2343750
+r=[0 2 3 3 2 1 ], S=[2 0 3 0 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+r=[1 0 0 2 3 1 ], S=[1 2 3 0 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+r=[3 2 2 3 1 0 ], S=[0 3 3 0 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+r=[3 1 3 1 2 3 ], S=[1 2 0 1 0 0 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2343750
+r=[3 0 3 0 1 2 ], S=[2 2 0 1 0 0 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2343750
+r=[3 0 3 1 2 1 ], S=[3 3 0 1 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+r=[2 1 2 0 1 2 ], S=[0 0 1 1 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+r=[0 1 1 2 1 0 ], S=[1 0 1 1 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+r=[0 1 1 2 1 2 ], S=[1 0 1 1 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+r=[3 3 1 2 1 0 ], S=[3 0 1 1 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+r=[2 0 1 0 1 2 ], S=[2 1 1 1 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+r=[2 3 1 2 1 0 ], S=[0 2 1 1 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+r=[1 1 0 0 1 1 ], S=[1 2 2 1 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+r=[3 0 1 0 2 2 ], S=[3 2 2 1 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+r=[0 2 0 0 2 1 ], S=[1 3 2 1 0 0 ], p_pi=0.0390625, lambda_pi=7, delta_pi=0.2500000
+
+=== Top 20 minimal p_pi (r/S+p_pi/lambda/delta) ===
+r=[2 3 2 2 3 3 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.3125000
+r=[1 3 2 2 3 3 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.3125000
+r=[1 0 2 2 3 3 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.3125000
+r=[3 3 0 3 2 3 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2656250
+r=[2 3 0 3 2 3 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2656250
+r=[2 0 3 0 2 3 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2968750
+r=[3 0 2 3 0 3 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2812500
+r=[3 3 0 3 0 3 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2968750
+r=[2 3 0 3 0 3 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2812500
+r=[0 3 3 2 0 3 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.3750000
+r=[3 0 2 2 3 2 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.3125000
+r=[2 0 2 2 3 2 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.3125000
+r=[0 0 3 0 3 2 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=5, delta_pi=0.2656250
+r=[3 3 2 0 3 2 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2968750
+r=[2 0 0 0 3 2 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=4, delta_pi=0.3125000
+r=[0 2 2 3 2 2 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.3281250
+r=[3 3 0 3 2 2 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2968750
+r=[0 2 0 3 2 2 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2968750
+r=[3 0 3 2 2 2 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.3281250
+r=[3 0 2 3 0 2 ], S=[3 3 3 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2656250
+
+=== Top 20 minimal delta_pi (r/S+p_pi/lambda/delta) ===
+r=[2 3 3 3 2 3 ], S=[3 3 2 3 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2343750
+r=[1 3 3 0 2 0 ], S=[2 3 2 3 3 3 ], p_pi=0.0546875, lambda_pi=6, delta_pi=0.2343750
+r=[2 2 3 0 3 2 ], S=[0 0 3 2 3 3 ], p_pi=0.0468750, lambda_pi=6, delta_pi=0.2343750
+r=[3 2 0 3 2 3 ], S=[3 1 2 1 3 3 ], p_pi=0.0468750, lambda_pi=6, delta_pi=0.2343750
+r=[3 3 0 1 0 3 ], S=[1 3 1 1 3 3 ], p_pi=0.0625000, lambda_pi=6, delta_pi=0.2343750
+r=[3 2 0 1 0 1 ], S=[0 3 1 1 3 3 ], p_pi=0.0468750, lambda_pi=6, delta_pi=0.2343750
+r=[0 1 0 1 2 3 ], S=[1 1 3 0 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2343750
+r=[0 2 0 2 3 0 ], S=[0 1 3 0 3 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2343750
+r=[3 0 1 3 2 2 ], S=[2 2 0 0 3 3 ], p_pi=0.0468750, lambda_pi=6, delta_pi=0.2343750
+r=[1 3 1 1 2 2 ], S=[3 0 0 0 3 3 ], p_pi=0.0468750, lambda_pi=6, delta_pi=0.2343750
+r=[2 0 2 2 3 3 ], S=[2 3 3 3 2 3 ], p_pi=0.0468750, lambda_pi=6, delta_pi=0.2343750
+r=[0 1 2 0 3 3 ], S=[1 1 3 3 2 3 ], p_pi=0.0468750, lambda_pi=6, delta_pi=0.2343750
+r=[1 3 1 3 0 1 ], S=[3 0 2 3 2 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2343750
+r=[1 2 1 2 3 0 ], S=[0 0 2 3 2 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2343750
+r=[3 0 0 0 3 0 ], S=[2 2 1 2 2 3 ], p_pi=0.0390625, lambda_pi=6, delta_pi=0.2343750
+r=[2 0 0 1 3 1 ], S=[1 2 1 2 2 3 ], p_pi=0.0546875, lambda_pi=6, delta_pi=0.2343750
+r=[3 3 0 1 0 3 ], S=[3 3 2 1 2 3 ], p_pi=0.0468750, lambda_pi=6, delta_pi=0.2343750
+r=[0 3 1 0 3 0 ], S=[2 0 1 0 2 3 ], p_pi=0.0468750, lambda_pi=6, delta_pi=0.2343750
+r=[0 3 1 2 1 2 ], S=[3 2 0 0 2 3 ], p_pi=0.0468750, lambda_pi=6, delta_pi=0.2343750
+r=[0 0 1 2 1 0 ], S=[0 2 0 0 2 3 ], p_pi=0.0625000, lambda_pi=6, delta_pi=0.2343750
+
+---
+Checked combinations: 16777216
+Start time: Tue Sep 23 21:47:45 2025
+End time:   Tue Sep 23 21:47:45 2025
+Elapsed:    2123.00 sec

@@ -1,0 +1,9 @@
+=== Histogram (T=2) ===
+p_pi	lambda_pi	delta_pi	count	percent
+0.5000000	1	1.0000000	96	37.5000000%
+1.0000000	1	1.0000000	160	62.5000000%
+---
+Total valid combinations: 256
+Start time: Tue Sep 23 19:57:29 2025
+End time:   Tue Sep 23 19:57:29 2025
+Elapsed:    0.00 sec
